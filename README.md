@@ -2,6 +2,7 @@
 
 Segundo cérebro criado no Gemini Notebook para estudar a trajetória musical de Juninho Afram, sua técnica de guitarra, carreira no Oficina G3, influências musicais e contribuição para o rock cristão brasileiro.
 
+
 # Objetivo:
 
 Construir um segundo cérebro especializado em Juninho Afram, capaz de explicar sua trajetória musical, sua técnica como guitarrista, sua atuação no Oficina G3, suas influências musicais e sua contribuição para o rock cristão brasileiro, utilizando exclusivamente fontes confiáveis e verificáveis.
@@ -20,7 +21,7 @@ Quando uma informação não estiver presente nas fontes, informe claramente ess
 
 Priorize respostas claras, detalhadas e baseadas em evidências.
 
- # Fontes Utilizadas
+# Fontes Utilizadas
 
 # FONTES DE VÍDEO:
 
@@ -89,23 +90,23 @@ A contribuição e influência de Juninho Afram para o rock cristão e para a gu
 
 1.  Quebra de Paradigmas no Meio Cristão
 
-    . Na primeira metade da década de 1990, as músicas nas igrejas evangélicas eram pautadas por onstrumentos como órgão.
+Na primeira metade da década de 1990, as músicas nas igrejas evangélicas eram pautadas por onstrumentos como órgão.
 
 2. Projeção Além do Gospel e Reconhecimento Técnico
 
-   . O trabalho do músico Juninho Afram consolidou seu nome não apenas no segmento religioso, mas como uma das grandes referências da guitarra rock no Brasil.
+O trabalho do músico Juninho Afram consolidou seu nome não apenas no segmento religioso, mas como uma das grandes referências da guitarra rock no Brasil.
 
 3. Maturação Conceitual: Técnica a Serviço do Storytelling
 
-   . Juninho ajudou a transformar a abordagem didática e artística de guitarristas ao defender que a técnica e a velocidade não devem ser o fim em si mesmas, mas sim um vocabulário para expressar emoções e dinamismo.
+Juninho ajudou a transformar a abordagem didática e artística de guitarristas ao defender que a técnica e a velocidade não devem ser o fim em si mesmas, mas sim um vocabulário para expressar emoções e dinamismo.
 
 4. Linguagem de Timbre e Arranjos
 
-   . Como referência de timbre, Juninho cita a sonoridade de Eddie Van Halen, focada na força da palhetada e no ganho moderado em vez de excesso de distorção.
+Como referência de timbre, Juninho cita a sonoridade de Eddie Van Halen, focada na força da palhetada e no ganho moderado em vez de excesso de distorção.
    
-. As fontes também registram o contato com a banda de hard rock Bride.
+As fontes também registram o contato com a banda de hard rock Bride.
 
-. Introduziu ideias de timbre e produção que marcaram o rock nacional, como o uso de delays marcantes (Espelhos Mágicos)
+Introduziu ideias de timbre e produção que marcaram o rock nacional, como o uso de delays marcantes (Espelhos Mágicos)
 , modulações modais em dórico (Davi) e a popularização de afinações pesadas (como Drop D e afinações 2 tons abaixo).
 
 # Fonte Citada
@@ -124,7 +125,9 @@ https://www.youtube.com/watch?v=OuUJ_xzTd7s
 <img width="628" height="224" alt="image" src="https://github.com/user-attachments/assets/02d5a693-b767-4f29-a737-67786cd81599" />
 <img width="643" height="304" alt="image" src="https://github.com/user-attachments/assets/41ca816f-13a6-4c0a-b809-590ed6dd1d07" />
 
+# Pegunta 3
 
+# Qual foi a reação dos cristãos mais antigos, quando estavam vendo surgir um novo estilo musical no meio gospel?
 
 
 
