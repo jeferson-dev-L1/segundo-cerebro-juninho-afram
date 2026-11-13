@@ -90,11 +90,11 @@ A contribuição e influência de Juninho Afram para o rock cristão e para a gu
 
 1.  Quebra de Paradigmas no Meio Cristão
 
-Na primeira metade da década de 1990, as músicas nas igrejas evangélicas eram pautadas por onstrumentos como órgão.
+ Na primeira metade da década de 1990, as músicas nas igrejas evangélicas eram pautadas por onstrumentos como órgão.
 
 2. Projeção Além do Gospel e Reconhecimento Técnico
 
-O trabalho do músico Juninho Afram consolidou seu nome não apenas no segmento religioso, mas como uma das grandes referências da guitarra rock no Brasil.
+ O trabalho do músico Juninho Afram consolidou seu nome não apenas no segmento religioso, mas como uma das grandes referências da guitarra rock no Brasil.
 
 3. Maturação Conceitual: Técnica a Serviço do Storytelling
 
@@ -102,11 +102,11 @@ Juninho ajudou a transformar a abordagem didática e artística de guitarristas 
 
 4. Linguagem de Timbre e Arranjos
 
-Como referência de timbre, Juninho cita a sonoridade de Eddie Van Halen, focada na força da palhetada e no ganho moderado em vez de excesso de distorção.
+ Como referência de timbre, Juninho cita a sonoridade de Eddie Van Halen, focada na força da palhetada e no ganho moderado em vez de excesso de distorção.
    
-As fontes também registram o contato com a banda de hard rock Bride.
+ As fontes também registram o contato com a banda de hard rock Bride.
 
-Introduziu ideias de timbre e produção que marcaram o rock nacional, como o uso de delays marcantes (Espelhos Mágicos)
+ Introduziu ideias de timbre e produção que marcaram o rock nacional, como o uso de delays marcantes (Espelhos Mágicos)
 , modulações modais em dórico (Davi) e a popularização de afinações pesadas (como Drop D e afinações 2 tons abaixo).
 
 # Fonte Citada
