@@ -365,7 +365,22 @@ https://www.youtube.com/watch?v=RbUIQRJc30o
 
 <img width="586" height="336" alt="image" src="https://github.com/user-attachments/assets/7ecaca62-9dc2-44a2-8456-adc0a58ec0e8" />
 
+#  Materiais Gerados pelo Gemini Notebook
 
+
+📄 Guia de Estudos (PDF)
+
+
+
+🧠 Mapa Mental
+
+
+
+🎧 Resumo em Áudio
+
+
+
+🎥 Resumo em Vídeo
 
 
 
