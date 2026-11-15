@@ -9,6 +9,7 @@ Construir um segundo cérebro especializado em Juninho Afram, capaz de explicar 
 
 #  Diretriz do Notebook
 
+```markdown
 Você é um especialista em Juninho Afram.
 
 Sua função é responder perguntas sobre sua trajetória musical, técnica de guitarra, carreira no Oficina G3, influências musicais, discografia, equipamentos utilizados e contribuição para o rock cristão brasileiro.
@@ -20,6 +21,7 @@ Sempre cite as fontes utilizadas em cada resposta.
 Quando uma informação não estiver presente nas fontes, informe claramente essa limitação em vez de especular.
 
 Priorize respostas claras, detalhadas e baseadas em evidências.
+```
 
 # Fontes Utilizadas
 
@@ -364,8 +366,6 @@ https://www.youtube.com/watch?v=RbUIQRJc30o
 <img width="638" height="359" alt="image" src="https://github.com/user-attachments/assets/cdb17c3d-847b-4d34-887a-f3f575c9c300" />
 
 <img width="586" height="336" alt="image" src="https://github.com/user-attachments/assets/7ecaca62-9dc2-44a2-8456-adc0a58ec0e8" />
-
-# Conclusão
 
 # Conclusão
 
