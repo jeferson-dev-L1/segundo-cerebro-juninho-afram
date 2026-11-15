@@ -3,11 +3,11 @@
 Segundo cérebro criado no Gemini Notebook para estudar a trajetória musical de Juninho Afram, sua técnica de guitarra, carreira no Oficina G3, influências musicais e contribuição para o rock cristão brasileiro.
 
 
-# Objetivo:
+## Objetivo:
 
 Construir um segundo cérebro especializado em Juninho Afram, capaz de explicar sua trajetória musical, sua técnica como guitarrista, sua atuação no Oficina G3, suas influências musicais e sua contribuição para o rock cristão brasileiro, utilizando exclusivamente fontes confiáveis e verificáveis.
 
-#  Diretriz do Notebook
+##  Diretriz do Notebook
 
 ```markdown
 Você é um especialista em Juninho Afram.
@@ -23,9 +23,9 @@ Quando uma informação não estiver presente nas fontes, informe claramente ess
 Priorize respostas claras, detalhadas e baseadas em evidências.
 ```
 
-# Fontes Utilizadas
+## Fontes Utilizadas
 
-# Fontes de Vídeo:
+### Fontes de Vídeo:
 
 https://www.youtube.com/watch?v=jB5UIAyrJyc
 
@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=jB5UIAyrJyc&pp=ygUtQXVsYXMgZGUgZ3VpdGFycmEgIGNvb
 
 https://www.youtube.com/watch?v=OuUJ_xzTd7s
 
-# Fontes de Texto: 
+### Fontes de Texto: 
 
 https://hmusicagospel.blogspot.com/p/juninho-durante-um-workshop.html
 
@@ -51,7 +51,7 @@ https://dicionariompb.com.br/artista/juninho-afram/
 
 https://www.oficinag3.com.br/
 
-#  Critérios de Confiança das Fontes
+##  Critérios de Confiança das Fontes
 
 As fontes foram selecionadas com base nos seguintes critérios:
 
@@ -66,9 +66,9 @@ As fontes foram selecionadas com base nos seguintes critérios:
 > Informações que puderam ser confirmadas em mais de uma fonte.
 
 
-# Perguntas e Respostas
+## Perguntas e Respostas
 
-# Pegunta 1
+### Pegunta 1
 
 #  Como Juninho Afram configura seus pedais e timbres?
 
@@ -93,7 +93,7 @@ https://www.youtube.com/watch?v=jB5UIAyrJyc
 <img width="590" height="347" alt="image" src="https://github.com/user-attachments/assets/b4e9861f-3fb4-4f03-afc8-3ec02537e2d0" />
 
 
-# Pegunta 2
+### Pegunta 2
 
 # Qual é a sua influência e a sua contribuição para o rock gospel brasileiro?
 
@@ -137,7 +137,7 @@ https://www.youtube.com/watch?v=OuUJ_xzTd7s
 
 <img width="643" height="304" alt="image" src="https://github.com/user-attachments/assets/41ca816f-13a6-4c0a-b809-590ed6dd1d07" />
 
-# Pegunta 3
+### Pegunta 3
 
 # Qual foi a reação dos cristãos mais antigos, quando estavam vendo surgir um novo estilo musical no meio gospel?
 
@@ -159,7 +159,7 @@ https://www.oficinag3.com.br/sobre
 
 <img width="599" height="234" alt="image" src="https://github.com/user-attachments/assets/e6035cd6-a87c-4712-8f25-fe8cc675f561" />
 
-# Pegunta 4
+### Pegunta 4
 
 # Como funciona o sistema CAGED nos estudos dele?
 
@@ -189,7 +189,7 @@ https://www.youtube.com/watch?v=UZfhsjygN0Q
 
 <img width="610" height="212" alt="image" src="https://github.com/user-attachments/assets/7c64f0df-45b7-4e5f-b92a-436ed24fc48b" />
 
-# Pegunta 5
+### Pegunta 5
 
 # Como a Banda Oficina G3 influenciou tantos jovens e amantes do rock gospel dentro das igrejas?
 
@@ -245,7 +245,7 @@ https://www.youtube.com/watch?v=RbUIQRJc30o
 <img width="639" height="201" alt="image" src="https://github.com/user-attachments/assets/ace47786-54ca-4029-9ae1-2afb1a28f583" />
 
 
-# Pegunta 6
+### Pegunta 6
 
 # Quais álbuns do Oficina G3 marcaram a evolução técnica do guitarrista?
 
@@ -298,7 +298,7 @@ https://www.youtube.com/watch?v=qfpbChg03EA
 <img width="640" height="375" alt="image" src="https://github.com/user-attachments/assets/3467f567-a1a7-48c3-ae21-75c984cb6d67" />
 
 
-# Pegunta 7
+### Pegunta 7
 
 # Quais parcerias a Banda Oficina G3 e Juninho Afram construíram ao longo da carreira musical?
 
@@ -366,6 +366,8 @@ https://www.youtube.com/watch?v=RbUIQRJc30o
 <img width="638" height="359" alt="image" src="https://github.com/user-attachments/assets/cdb17c3d-847b-4d34-887a-f3f575c9c300" />
 
 <img width="586" height="336" alt="image" src="https://github.com/user-attachments/assets/7ecaca62-9dc2-44a2-8456-adc0a58ec0e8" />
+
+## Link do Notebook
 
 # Conclusão
 
