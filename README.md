@@ -55,8 +55,6 @@ https://www.oficinag3.com.br/
 
 • As fontes foram selecionadas com base nos seguintes critérios:
 
-• Conteúdo produzido por canais oficiais ou pelo próprio Juninho Afram;
-
 • Entrevistas e workshops concedidos pelo músico;
 
 • Sites especializados em música e biografias de artistas;
