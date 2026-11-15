@@ -369,6 +369,8 @@ https://www.youtube.com/watch?v=RbUIQRJc30o
 
 ## Link do Notebook
 
+https://notebook.google.com/notebook/8edeb76a-fab6-4033-af51-f40bc11656d7?authuser=1
+
 # Conclusão
 
 Desenvolver este projeto foi uma experiência muito enriquecedora, pois me permitiu aprender mais sobre a trajetória de Juninho Afram e compreender a importância da sua contribuição para o rock cristão brasileiro. Durante a construção deste segundo cérebro no Gemini Notebook, pude reunir informações de diferentes fontes confiáveis, analisar conteúdos sobre sua carreira, técnica de guitarra, influências musicais e participação no sucesso do Oficina G3.
