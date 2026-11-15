@@ -1,4 +1,4 @@
-# segundo-cerebro-juninho-afram
+segundo-cerebro-juninho-afram
 
 Segundo cérebro criado no Gemini Notebook para estudar a trajetória musical de Juninho Afram, sua técnica de guitarra, carreira no Oficina G3, influências musicais e contribuição para o rock cristão brasileiro.
 
@@ -53,17 +53,17 @@ https://www.oficinag3.com.br/
 
 ##  Critérios de Confiança das Fontes
 
-As fontes foram selecionadas com base nos seguintes critérios:
+• As fontes foram selecionadas com base nos seguintes critérios:
 
-> Conteúdo produzido por canais oficiais ou pelo próprio Juninho Afram;
+• Conteúdo produzido por canais oficiais ou pelo próprio Juninho Afram;
 
-> Entrevistas e workshops concedidos pelo músico;
+• Entrevistas e workshops concedidos pelo músico;
 
-> Sites especializados em música e biografias de artistas;
+• Sites especializados em música e biografias de artistas;
 
-> Fontes amplamente reconhecidas, como Wikipédia, Dicionário Cravo Albin e site oficial do Oficina G3;
+• Fontes amplamente reconhecidas;
 
-> Informações que puderam ser confirmadas em mais de uma fonte.
+• Informações confirmadas por mais de uma fonte.
 
 
 ## Perguntas e Respostas
