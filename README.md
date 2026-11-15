@@ -365,22 +365,17 @@ https://www.youtube.com/watch?v=RbUIQRJc30o
 
 <img width="586" height="336" alt="image" src="https://github.com/user-attachments/assets/7ecaca62-9dc2-44a2-8456-adc0a58ec0e8" />
 
-#  Materiais Gerados pelo Gemini Notebook
+# Conclusão
+
+# Conclusão
+
+Desenvolver este projeto foi uma experiência muito enriquecedora, pois me permitiu aprender mais sobre a trajetória de Juninho Afram e compreender a importância da sua contribuição para o rock cristão brasileiro. Durante a construção deste segundo cérebro no Gemini Notebook, pude reunir informações de diferentes fontes confiáveis, analisar conteúdos sobre sua carreira, técnica de guitarra, influências musicais e participação no sucesso do Oficina G3.
+
+Além de conhecer mais profundamente a história do artista, também aprendi como a inteligência artificial pode ser utilizada como uma ferramenta de apoio aos estudos, ajudando a organizar conhecimentos, conectar informações e gerar materiais de aprendizado de forma prática e eficiente.
+
+Este desafio mostrou que, quando utilizamos fontes de qualidade e fazemos as perguntas certas, é possível criar uma base de conhecimento confiável sobre qualquer assunto. Como fã de música e admirador do trabalho de Juninho Afram, foi muito interessante transformar esse interesse em um projeto estruturado, capaz de servir como fonte de consulta e aprendizado contínuo.
 
 
-📄 Guia de Estudos (PDF)
-
-
-
-🧠 Mapa Mental
-
-
-
-🎧 Resumo em Áudio
-
-
-
-🎥 Resumo em Vídeo
 
 
 
