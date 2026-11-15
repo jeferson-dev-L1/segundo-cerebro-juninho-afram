@@ -68,7 +68,7 @@ As fontes foram selecionadas com base nos seguintes critérios:
 
 ## Perguntas e Respostas
 
-### Pegunta 1
+### Pergunta 1
 
 #  Como Juninho Afram configura seus pedais e timbres?
 
@@ -93,7 +93,7 @@ https://www.youtube.com/watch?v=jB5UIAyrJyc
 <img width="590" height="347" alt="image" src="https://github.com/user-attachments/assets/b4e9861f-3fb4-4f03-afc8-3ec02537e2d0" />
 
 
-### Pegunta 2
+### Pergunta 2
 
 # Qual é a sua influência e a sua contribuição para o rock gospel brasileiro?
 
@@ -137,7 +137,7 @@ https://www.youtube.com/watch?v=OuUJ_xzTd7s
 
 <img width="643" height="304" alt="image" src="https://github.com/user-attachments/assets/41ca816f-13a6-4c0a-b809-590ed6dd1d07" />
 
-### Pegunta 3
+### Pergunta 3
 
 # Qual foi a reação dos cristãos mais antigos, quando estavam vendo surgir um novo estilo musical no meio gospel?
 
@@ -159,7 +159,7 @@ https://www.oficinag3.com.br/sobre
 
 <img width="599" height="234" alt="image" src="https://github.com/user-attachments/assets/e6035cd6-a87c-4712-8f25-fe8cc675f561" />
 
-### Pegunta 4
+### Pergunta 4
 
 # Como funciona o sistema CAGED nos estudos dele?
 
@@ -189,7 +189,7 @@ https://www.youtube.com/watch?v=UZfhsjygN0Q
 
 <img width="610" height="212" alt="image" src="https://github.com/user-attachments/assets/7c64f0df-45b7-4e5f-b92a-436ed24fc48b" />
 
-### Pegunta 5
+### Pergunta 5
 
 # Como a Banda Oficina G3 influenciou tantos jovens e amantes do rock gospel dentro das igrejas?
 
@@ -245,7 +245,7 @@ https://www.youtube.com/watch?v=RbUIQRJc30o
 <img width="639" height="201" alt="image" src="https://github.com/user-attachments/assets/ace47786-54ca-4029-9ae1-2afb1a28f583" />
 
 
-### Pegunta 6
+### Pergunta 6
 
 # Quais álbuns do Oficina G3 marcaram a evolução técnica do guitarrista?
 
@@ -298,7 +298,7 @@ https://www.youtube.com/watch?v=qfpbChg03EA
 <img width="640" height="375" alt="image" src="https://github.com/user-attachments/assets/3467f567-a1a7-48c3-ae21-75c984cb6d67" />
 
 
-### Pegunta 7
+### Pergunta 7
 
 # Quais parcerias a Banda Oficina G3 e Juninho Afram construíram ao longo da carreira musical?
 
